@@ -1,5 +1,5 @@
 <ul>
-    <li>Spider-Man</li>
+    <li>The Amazing Spider-Man</li>
     <li>Batman</li>
     <li>Iron Man</li>
     <li>Superman</li>
